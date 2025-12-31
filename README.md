@@ -100,7 +100,8 @@ This project uses a “No-Build” architecture. There is no `npm install` requi
 1. **Environment Variables**:
    You need a Google Gemini API Key. Since this is a client-side demo, you must serve the file in an environment where `process.env.API_KEY` is replaced, or strictly for local dev, you can hardcode it (not recommended for production).
    
-   *Note: The ElevenLabs Agent ID is configured in `AtlasOracleCallModal.tsx`.*
+   *Note: The ElevenLabs Agent ID is configured in `AtlasOracleCallModal.tsx`.* copy the elevenlabs_prompt.md and create a new agent inside the dashboard with the prompt, copy the agent id and replace it in the modal.
+   
 1. **Run Locally**:
    You can use any static file server.
    
