@@ -1,0 +1,8 @@
+{
+  "name": "Atlas Oracle",
+  "description": "A professional location-intelligence application providing grounded business analysis and urban context for any coordinate.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
