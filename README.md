@@ -78,6 +78,8 @@ The normalized context is sent to **Google Gemini** with a system prompt that en
 *   **PDF**: `jspdf`.
 
 ## 💻 Setup & Usage
+### Easiest setup Remix the apo in Google AI Studio Build
+link https://ai.studio/apps/drive/165J3M0kKY1EbD0OHKJ7G_Xju8-2Iz9bd?fullscreenApplet=true
 
 This project uses a "No-Build" architecture. There is no `npm install` required for the application logic itself, as dependencies are loaded via CDN in `index.html`.
 
